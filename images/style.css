@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+}
+.footer{
+    display: flex !important;
+    flex-direction: column;
+}
+.footer .useful a{
+    text-decoration: none;
+}
